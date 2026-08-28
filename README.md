@@ -3,7 +3,7 @@
 ### 🚀 Sobre Mim
 Entusiasta de Dados e Análise de Negócios, focado em transformar dados brutos em decisões estratégicas. Desenvolvo projetos com foco em **Power BI, SQL, Modelagem de Dados Relacionais e ETL**.
 
-- 🛠️ **Ferramentas & Tecnologias:** Power BI, SQL Server / PostgreSQL, Power Query, DAX, Excel Avançado.
+- 🛠️ **Ferramentas & Tecnologias:** Power BI, SQL Server / PostgreSQL, Python Básico.
 - 📍 **Localização:** Vitória - ES, Brasil
 - 🌐 **LinkedIn:** [Acesse meu LinkedIn](https://www.linkedin.com/in/thiago-risperi/)
 
