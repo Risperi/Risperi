@@ -11,7 +11,7 @@ Entusiasta de Dados e Análise de Negócios, focado em transformar dados brutos 
 
 ### 📌 Projetos em Destaque
 
-#### 📊 [1. Dashboard Analítico de Vendas Globais]([vendas-globais-powerbi))
+#### 📊 [1. Dashboard Analítico de Vendas Globais](https://github.com/Risperi/vendas-globais-powerbi)
 * **Ferramentas:** Power BI Desktop.
 * **Descrição:** Painel interativo para análise executiva de vendas, acompanhamento de margens de desconto por subcategoria e distribuição geográfica de performance global.
 * **[Acessar a documentação completa do projeto]([./vendas-globais](https://github.com/Risperi/vendas-globais-powerbi))**
