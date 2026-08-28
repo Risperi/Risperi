@@ -1,4 +1,4 @@
-# Olá, eu sou [Seu Nome] 👋
+# Olá, eu sou André Thiago 👋
 
 ### 🚀 Sobre Mim
 Entusiasta de Dados e Análise de Negócios, focado em transformar dados brutos em decisões estratégicas. Desenvolvo projetos com foco em **Power BI, SQL, Modelagem de Dados Relacionais e ETL**.
