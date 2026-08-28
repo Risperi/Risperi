@@ -1,16 +1,24 @@
-## Hi there 👋
+# Olá, eu sou [Seu Nome] 👋
 
-<!--
-**Risperi/Risperi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Sobre Mim
+Entusiasta de Dados e Análise de Negócios, focado em transformar dados brutos em decisões estratégicas. Desenvolvo projetos com foco em **Power BI, SQL, Modelagem de Dados Relacionais e ETL**.
 
-Here are some ideas to get you started:
+- 🛠️ **Ferramentas & Tecnologias:** Power BI, SQL Server / PostgreSQL, Power Query, DAX, Excel Avançado.
+- 📍 **Localização:** Vitória - ES, Brasil
+- 🌐 **LinkedIn:** [Acesse meu LinkedIn](https://www.linkedin.com/in/thiago-risperi/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 📌 Projetos em Destaque
+
+#### 📊 [1. Dashboard Analítico de Vendas Globais](./vendas-globais)
+* **Ferramentas:** Power BI Desktop.
+* **Descrição:** Painel interativo para análise executiva de vendas, acompanhamento de margens de desconto por subcategoria e distribuição geográfica de performance global.
+* **[Acessar a documentação completa do projeto](./vendas-globais)**
+
+
+
+---
+
+🛠️ **Competências:**
+`Power BI` | `Modelagem de Dados` | `SQL` | `Business Intelligence` | `Python`
